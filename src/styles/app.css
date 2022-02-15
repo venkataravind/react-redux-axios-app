@@ -1,0 +1,13 @@
+.main-block {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.user-block {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
